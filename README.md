@@ -1,16 +1,14 @@
 # todolist
 
-A new Flutter project.
+-It uses Concept of State Management (making the state of the app using provider package)
+<br>
+-It uses SQLite database, so that the user doesnot have the requirement to connect to online database like mongoatlas and firebase.
+<br>
+-The use database keeps the data persistent in our app.
+<br>
+-UI is filled with styling fonts and events.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/64357406/182222228-df7768f0-98b6-4d32-bcc3-5559bada1786.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
